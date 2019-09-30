@@ -1,25 +1,10 @@
 # README
+Coded in ruby on rails
+This is an exercise in hard coding the CRUD methods.
+-Create
+-Read
+-Update
+-Delete
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To do this I have used books as an example and am using the requests through postman.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails_coding_CRUD
